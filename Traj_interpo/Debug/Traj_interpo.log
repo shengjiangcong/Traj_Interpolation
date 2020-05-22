@@ -1,0 +1,6 @@
+﻿  Cubic_Spline.cpp
+d:\华科文件\vs\traj_interpo\traj_interpo\cubic_spline.cpp(22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\华科文件\vs\traj_interpo\traj_interpo\cubic_spline.cpp(23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\华科文件\vs\traj_interpo\traj_interpo\cubic_spline.cpp(24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Traj_interpo.vcxproj -> D:\华科文件\VS\Traj_interpo\Debug\Traj_interpo.exe
+  Traj_interpo.vcxproj -> D:\华科文件\VS\Traj_interpo\Debug\Traj_interpo.pdb (Full PDB)
