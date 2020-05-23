@@ -1,0 +1,5 @@
+﻿  Cubic_Spline.cpp
+d:\code\traj_interpolation\traj_interpo\cubic_spline.cpp(53): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\code\traj_interpolation\traj_interpo\cubic_spline.cpp(69): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  Traj_interpo.vcxproj -> D:\code\Traj_Interpolation\x64\Debug\Traj_interpo.exe
+  Traj_interpo.vcxproj -> D:\code\Traj_Interpolation\x64\Debug\Traj_interpo.pdb (Full PDB)
