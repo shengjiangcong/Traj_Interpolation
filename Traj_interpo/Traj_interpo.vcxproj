@@ -142,11 +142,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Collision_Check.cpp" />
     <ClCompile Include="Cubic_Spline.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Quintic_Spline.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Collision_Check.h" />
     <ClInclude Include="Cubic_Spline.h" />
     <ClInclude Include="Quintic_Spline.h" />
   </ItemGroup>

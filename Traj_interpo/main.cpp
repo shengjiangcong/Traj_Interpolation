@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include "Quintic_Spline.h"
 #include "Cubic_Spline.h"
+#include "Collision_Check.h"
 
 int main()
 {
@@ -20,6 +21,7 @@ int main()
 	unsigned long long array_num = sizeof(degree_array) / sizeof(float);//轨迹点的个数
 
 	CubicSpline traj;
+	Collision_Check Col_check;
 	/*****************三次多项式两点间规划轨迹*****************/
 	Traj_Cubic_2points = traj.getTraj_Cubic_2points(time, start_degree, end_degree, start_velocity, end_velocity, *trajpoints);
 	if (Traj_Cubic_2points == false)

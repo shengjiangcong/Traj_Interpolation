@@ -24,12 +24,18 @@
     <ClCompile Include="Quintic_Spline.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Collision_Check.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Quintic_Spline.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Cubic_Spline.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision_Check.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

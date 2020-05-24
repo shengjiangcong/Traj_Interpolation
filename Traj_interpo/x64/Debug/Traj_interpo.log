@@ -1,5 +1,8 @@
-﻿  Cubic_Spline.cpp
-d:\code\traj_interpolation\traj_interpo\cubic_spline.cpp(53): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-d:\code\traj_interpolation\traj_interpo\cubic_spline.cpp(69): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+﻿  main.cpp
+d:\code\traj_interpolation\traj_interpo\main.cpp(44): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  d:\code\traj_interpolation\traj_interpo\main.cpp(44): note: 请考虑在格式字符串中使用“%lld”
+  d:\code\traj_interpolation\traj_interpo\main.cpp(44): note: 请考虑在格式字符串中使用“%Id”
+  d:\code\traj_interpolation\traj_interpo\main.cpp(44): note: 请考虑在格式字符串中使用“%I64d”
+d:\code\traj_interpolation\traj_interpo\main.cpp(24): warning C4101: “Col_check”: 未引用的局部变量
   Traj_interpo.vcxproj -> D:\code\Traj_Interpolation\x64\Debug\Traj_interpo.exe
   Traj_interpo.vcxproj -> D:\code\Traj_Interpolation\x64\Debug\Traj_interpo.pdb (Full PDB)
