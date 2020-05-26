@@ -1,8 +1,22 @@
 ﻿  main.cpp
-d:\code\traj_interpolation\traj_interpo\main.cpp(44): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
-  d:\code\traj_interpolation\traj_interpo\main.cpp(44): note: 请考虑在格式字符串中使用“%lld”
-  d:\code\traj_interpolation\traj_interpo\main.cpp(44): note: 请考虑在格式字符串中使用“%Id”
-  d:\code\traj_interpolation\traj_interpo\main.cpp(44): note: 请考虑在格式字符串中使用“%I64d”
-d:\code\traj_interpolation\traj_interpo\main.cpp(24): warning C4101: “Col_check”: 未引用的局部变量
+d:\code\traj_interpolation\traj_interpo\main.cpp(61): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  d:\code\traj_interpolation\traj_interpo\main.cpp(61): note: 请考虑在格式字符串中使用“%lld”
+  d:\code\traj_interpolation\traj_interpo\main.cpp(61): note: 请考虑在格式字符串中使用“%Id”
+  d:\code\traj_interpolation\traj_interpo\main.cpp(61): note: 请考虑在格式字符串中使用“%I64d”
+d:\code\traj_interpolation\traj_interpo\main.cpp(16): warning C4101: “Traj_Cubic_2points”: 未引用的局部变量
+d:\code\traj_interpolation\traj_interpo\main.cpp(26): warning C4101: “Col_check”: 未引用的局部变量
+d:\code\traj_interpolation\traj_interpo\main.cpp(18): warning C4101: “Traj_Cubic_manypoints”: 未引用的局部变量
+  Quintic_Spline.cpp
+d:\code\traj_interpolation\traj_interpo\quintic_spline.cpp(28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\code\traj_interpolation\traj_interpo\quintic_spline.cpp(41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\code\traj_interpolation\traj_interpo\quintic_spline.cpp(42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\code\traj_interpolation\traj_interpo\quintic_spline.cpp(43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\code\traj_interpolation\traj_interpo\quintic_spline.cpp(44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\code\traj_interpolation\traj_interpo\quintic_spline.cpp(47): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\code\traj_interpolation\traj_interpo\quintic_spline.cpp(50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\code\traj_interpolation\traj_interpo\quintic_spline.cpp(51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\code\traj_interpolation\traj_interpo\quintic_spline.cpp(52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+cl : 命令行 warning D9028: 最小重新生成失败，正在转换为标准生成
   Traj_interpo.vcxproj -> D:\code\Traj_Interpolation\x64\Debug\Traj_interpo.exe
   Traj_interpo.vcxproj -> D:\code\Traj_Interpolation\x64\Debug\Traj_interpo.pdb (Full PDB)
